@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://kratzert.github.io"
+url: "https://chunghsuanchen.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -60,7 +60,7 @@ author:
   name: Chung Hsuan Chen
   email: "chunghsuanchen7@gmail.com"
   github: ChungHsuanChen
-  linkedin: frederik-kratzert-226a33148
+  linkedin: www.linkedin.com/in/ChungHsuanChen-736032201
   xing: yourname
   stackoverflow: yourlink
 
@@ -112,7 +112,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/Berlin"
+timezone: "Taipei/Taiwan"
 markdown: kramdown
 highlighter: rouge
 #permalink: /:year/:month/:day/:title/.html
