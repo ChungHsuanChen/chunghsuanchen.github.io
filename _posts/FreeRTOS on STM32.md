@@ -6,7 +6,7 @@ excerpt:
   Execute FreeRTOS on stm32 develop board
 comments: true
 ---
-###### tags: `os`
+
 # FreeRTOS
 免費開源的RTOS
 **Device**:
