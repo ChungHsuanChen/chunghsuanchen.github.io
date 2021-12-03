@@ -1,3 +1,11 @@
+---
+layout: post
+title: Perf Experiment
+date: '2021-12-03 11:00'
+excerpt: >-
+  Experiment on Perf
+comments: true
+---
 ###### tags: `os`
 # Perf 
 是一個系統效能分析工具
