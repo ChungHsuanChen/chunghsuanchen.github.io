@@ -2,7 +2,7 @@
 layout: post
 title: Migrate FreeRTOS onto stm32
 date: '2021-12-03 11:01'
-excerpt: >-
+excerpt: 
   Execute FreeRTOS on stm32 develop board
 comments: true
 ---
