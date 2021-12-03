@@ -1,3 +1,11 @@
+---
+layout: post
+title: Migrate FreeRTOS onto stm32
+date: '2021-12-03 11:01'
+excerpt: >-
+  Execute FreeRTOS on stm32 develop board
+comments: true
+---
 ###### tags: `os`
 # FreeRTOS
 免費開源的RTOS
