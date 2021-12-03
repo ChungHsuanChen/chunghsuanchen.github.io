@@ -7,14 +7,14 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Numba series part 2: Custom data types and parallelization</title>
+        <title>Perf Experiment</title>
         <description>
           
-          This is the second part of my little series about the Numba library. This time we will take a look on how we can use custom data types inside of functions we like to get optimized by Numba. Out-of-the-box Numba can handle scalars and n-dimensional Numpy arrays as input. Tuples...
+         This is the experiment process of using PERF
         </description>
-        <pubDate>Mon, 25 Sep 2017 15:04:00 +0200</pubDate>
-        <link>http://localhost:4000/2017/09/25/numba-series-part-2-custom-data-types-and-parallelization.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/09/25/numba-series-part-2-custom-data-types-and-parallelization.html</guid>
+        <pubDate>Fri, 03 DEC 2021 12:37:00 +0200</pubDate>
+        <link>http://localhost:4000/Perf.html</link>
+        <guid isPermaLink="true">http://localhost:4000/Perf.html</guid>
       </item>
     
       <item>
