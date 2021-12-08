@@ -27,4 +27,5 @@ As a person who does a lot of autonomous learning, the Internet in these days of
 #### Courses
 - [你所不知道的C語言](https://hackmd.io/@sysprog/c-prog/%2F%40sysprog%2Fc-programming) by Jserv (highly recommended)
 
-
+#### Blogs/Sites
+- [Memory Reordering](https://preshing.com/20120625/memory-ordering-at-compile-time/) by Jeff Preshing (2 lectures)
