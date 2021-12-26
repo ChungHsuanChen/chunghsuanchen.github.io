@@ -10,7 +10,7 @@ As a person who does a lot of autonomous learning, the Internet in these days of
 ### Operating System
 
 #### Courses
-- [Linux Kernel Design](http://wiki.csie.ncku.edu.tw/linux/schedule) by Jserv (highly recommended)
+- [Linux Kernel Design](http://wiki.csie.ncku.edu.tw/linux/schedule)- by Jserv (highly recommended)
 - [並行和多執行緒程式設計](https://hackmd.io/@sysprog/concurrency/https%3A%2F%2Fhackmd.io%2F%40sysprog%2FS1AMIFt0D) -  by Jserv (highly recommended)
 - [Mutex Lock](https://github.com/angrave/SystemProgramming/wiki/Synchronization,-Part-1:-Mutex-Locks) - by Lawrence Angrave  (9 lectures)
 
@@ -25,8 +25,8 @@ As a person who does a lot of autonomous learning, the Internet in these days of
 
 ### C Programming
 #### Courses
-- [你所不知道的C語言](https://hackmd.io/@sysprog/c-prog/%2F%40sysprog%2Fc-programming) by Jserv (highly recommended)
+- [你所不知道的C語言](https://hackmd.io/@sysprog/c-prog/%2F%40sysprog%2Fc-programming)- by Jserv (highly recommended)
 
 #### Blogs/Sites
 - [Memory Reordering](https://preshing.com/20120625/memory-ordering-at-compile-time/) by Jeff Preshing (2 lectures)
-- [Pointers are more abstract than you might expect in C](https://hownot2code.com/2018/09/07/pointers-are-more-abstract-than-you-might-expect-in-c/)
+- [Pointers are more abstract than you might expect in C](https://hownot2code.com/2018/09/07/pointers-are-more-abstract-than-you-might-expect-in-c/)- by Stefan Schulze Frielinghaus
