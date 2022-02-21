@@ -30,6 +30,7 @@ As a person who does a lot of autonomous learning, the Internet in these days of
 #### Blogs/Sites
 - [Memory Reordering](https://preshing.com/20120625/memory-ordering-at-compile-time/) by Jeff Preshing (2 lectures)
 - [Pointers are more abstract than you might expect in C](https://hownot2code.com/2018/09/07/pointers-are-more-abstract-than-you-might-expect-in-c/)- by Stefan Schulze Frielinghaus
+- [Inheritance and Polymorphism in C](https://www.codeproject.com/Articles/108830/Inheritance-and-Polymorphism-in-C)
 
 ### Compiler
 #### Blogs/Sites
