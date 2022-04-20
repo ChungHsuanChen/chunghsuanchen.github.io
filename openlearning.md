@@ -20,7 +20,7 @@ As a person who does a lot of autonomous learning, the Internet in these days of
 
 
 #### Blogs/Sites
-
+- [Dynamic Tracing](https://blog.openresty.com.cn/cn/dynamic-tracing/) by 章亦春
 
 
 ### C Programming
