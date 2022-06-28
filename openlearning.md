@@ -35,3 +35,6 @@ As a person who does a lot of autonomous learning, the Internet in these days of
 ### Compiler
 #### Blogs/Sites
 - [How to JIT!](https://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction) by Eli Bendersky
+
+### Network
+-[鳥哥的私房菜-基礎網路知識](https://linux.vbird.org/linux_server/centos6/0110network_basic.php#fig2.1-1) by 鳥哥 (2 lectures)(highly recommended)
